@@ -1,0 +1,4 @@
+F1111,Hà Nội (HAN),TP Hồ Chí Minh (SGN),2023-10-20,23:23,14:39,10,11,null
+F2222,Hà Nội (HAN),Đà Lạt (DLI),2023-10-19,22:22,24:33,20,22,null
+F3333,TP Hồ Chí Minh (SGN),Buôn Ma Thuột (BMV),2023-10-18,13:33,14:50,32,32,null
+F5555,Hà Nội (HAN),TP Hồ Chí Minh (SGN),2023-10-17,12:23,14:39,10,20,null

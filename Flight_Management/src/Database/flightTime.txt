@@ -1,0 +1,28 @@
+TP Hồ Chí Minh (SGN), Hà Nội (HAN), 2.27 
+TP Hồ Chí Minh (SGN), Vinh (VII), 1.97 
+TP Hồ Chí Minh (SGN) , Nha Trang (CXR), 1.34 
+TP Hồ Chí Minh (SGN), Buôn Ma Thuột (BMV), 1.29 
+TP Hồ Chí Minh (SGN), Đà Nẵng (DAD), 1.66 
+TP Hồ Chí Minh (SGN) , Phú Quốc (PQC), 1.33 
+TP Hồ Chí Minh (SGN), Đà Lạt (DLI), 1.23 
+TP Hồ Chí Minh (SGN), Hải Phòng (HPH), 2.22
+Vinh (VII),Hà Nội (HAN) ,  1.3 
+Vinh (VII),TP Hồ Chí Minh (SGN), 1.97 
+Nha Trang (CXR),Hà Nội (HAN) ,  2.19 
+Nha Trang (CXR),TP Hồ Chí Minh (SGN) ,  1.34 
+Buôn Ma Thuột (BMV),Hà Nội (HAN),  2.08 
+Buôn Ma Thuột (BMV),TP Hồ Chí Minh (SGN),  1.29 
+Đà Nẵng (DAD), Hà Nội (HAN) , 1.69 
+Đà Nẵng (DAD),TP Hồ Chí Minh (SGN),  1.66 
+Phú Quốc (PQC),Hà Nội (HAN),  2.36 
+Phú Quốc (PQC),TP Hồ Chí Minh (SGN) ,  1.33 
+Đà Lạt (DLI),TP Hồ Chí Minh (SGN),  1.23 
+Hải Phòng (HPH),TP Hồ Chí Minh (SGN),  2.22
+Hà Nội (HAN) , Nha Trang (CXR), 2.19 
+Hà Nội (HAN), Buôn Ma Thuột (BMV), 2.08 
+Hà Nội (HAN) , Vinh (VII), 1.3 
+Hà Nội (HAN) , Đà Nẵng (DAD), 1.69 
+Hà Nội (HAN), Đà Lạt (DLI), 2.19 
+Đà Lạt (DLI),Hà Nội (HAN),  2.19 
+Hà Nội (HAN), Phú Quốc (PQC), 2.36 
+Hà Nội (HAN),TP Hồ Chí Minh (SGN),  2.27 
